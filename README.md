@@ -1,7 +1,7 @@
-# MatrixCruncher2024
+MatrixCruncher2024
 
-Matrix2024
-Matrix2024 is a comprehensive Python application that provides a suite of matrix operations, numerical methods, and CPU benchmarking tools. Built with a user-friendly GUI using Tkinter, it integrates powerful numerical libraries like NumPy, SciPy, Numba, and Matplotlib to offer efficient and accelerated computations.
+
+MatrixCruncher2024 is a comprehensive Python application that provides a suite of matrix operations, numerical methods, and CPU benchmarking tools. Built with a user-friendly GUI using Tkinter, it integrates powerful numerical libraries like NumPy, SciPy, Numba, and Matplotlib to offer efficient and accelerated computations.
 
 Features
 Matrix Multiplication: Multiply two matrices with Numba-accelerated performance.
@@ -12,14 +12,8 @@ Least Squares Solution: Solve overdetermined systems using the least squares met
 Probability Density Function: Calculate the expected value, variance, and standard deviation of a probability density function.
 CPU Benchmark (Floating-Point Operations): Benchmark your CPU's floating-point performance using intensive mathematical computations.
 CPU Benchmark (Integer Operations): Benchmark your CPU's integer operation performance with complex integer arithmetic.
-Screenshots
-Main menu showcasing available operations.
 
-Matrix multiplication interface.
-
-Linear regression result with plotted data.
-
-Operations Overview:
+Operations Overview
 Matrix Multiplication
 Input dimensions and elements of matrices A and B.
 Compute their product with optimized performance.
